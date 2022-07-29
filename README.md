@@ -26,7 +26,7 @@
     <img src="images/NET_Core_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Superheroes - .Net Core WebApi</h3>
+<h3 align="center">JWT Authentication - .Net Core WebApi</h3>
 
 <p align="center">
     project_description
@@ -187,9 +187,8 @@ Project Link: [https://github.com/potlitel/vite-reactjs-tailwind-template](https
 
 List of resources I find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Creating a REST Web API in C# with ASP.NET Core 5.0 and Visual Studio Code](https://luis-hernandez.medium.com/creating-a-rest-web-api-in-c-with-asp-net-core-5-0-and-visual-studio-code-809ea7b4f815)
-* [Use with ASP.NET Core Web API](https://mysqlconnector.net/tutorials/net-core-mvc/)
-* [superheroes.json](https://gist.github.com/mariodev12/a923f2b651a005ca3ca7f851141efcbc)
+* [.NET Jwt Authentication with MongoDB](https://medium.com/nerd-for-tech/net-jwt-authentication-with-mongodb-9bca4a33d3f0)
+* [Solution - Non-nullable Property Must Contain a Non-null Value in .NET 6](https://www.c-sharpcorner.com/article/solution-non-nullable-property-must-contain-a-non-null-value-in-net-6/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
