@@ -22,7 +22,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/potlitel/Superhero">
+  <a href="https://github.com/potlitel/NetCoreJWTAuthentication">
     <img src="images/NET_Core_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,14 +31,14 @@
 <p align="center">
     project_description
     <br />
-    <a href="https://github.com/potlitel/Superhero"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/potlitel/NetCoreJWTAuthentication"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/potlitel/Superhero">View Demo</a>
+    <a href="https://github.com/potlitel/NetCoreJWTAuthentication">View Demo</a>
     ·
-    <a href="https://github.com/potlitel/Superhero">Report Bug</a>
+    <a href="https://github.com/potlitel/NetCoreJWTAuthentication">Report Bug</a>
     ·
-    <a href="https://github.com/potlitel/Superhero/issues">Request Feature</a>
+    <a href="https://github.com/potlitel/NetCoreJWTAuthentication/issues">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ This repo is a rich clone of [Creating a REST Web API in C# with ASP.NET Core 5.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/potlitel/Superhero.git
+   git clone https://github.com/potlitel/NetCoreJWTAuthentication.git
    ```
 2. Install NPM packages
    ```sh
