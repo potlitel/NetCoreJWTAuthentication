@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QumvtnefoXZdN8p4ZOYbLCDg7WUv+22cYRtzZdsBsEg=",
+  "Source": "NetCoreJWTAuthentication",
+  "BasePath": "_content/NetCoreJWTAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
